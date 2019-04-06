@@ -22,7 +22,7 @@ bl_info = {
     "name": "Header Search",
     "description": "Search button for header",
     "author": "kromar",
-    "version": (1, 00),
+    "version": (1, 0, 1),
     "blender": (2, 80, 0),
     "location": "Header",
     "category": "System"
