@@ -36,11 +36,11 @@ def draw_search(self, context):
 
 
 def register():
-    bpy.types.TOPBAR_HT_upper_bar.append(draw_search)
+    bpy.types.VIEW3D_HT_header.prepend(draw_search)
 
 
 def unregister():
-    bpy.types.TOPBAR_HT_upper_bar.remove(draw_search)
+    bpy.types.VIEW3D_HT_header.remove(draw_search)
 
 
 if __name__ == "__main__":
