@@ -21,11 +21,13 @@ import bpy
 bl_info = {
     "name": "Header Search",
     "description": "Search button for header",
-    "author": "kromar",
-    "version": (1, 0, 3),
-    "blender": (2, 80, 0),
+    "author": "Daniel Grauer",
+    "version": (1, 0, 4),
+    "blender": (2, 82, 0),
     "location": "Header",
     "category": "System"
+    "wiki_url": "https://github.com/kromar/blender_topbar_search"
+
 }
 
 
