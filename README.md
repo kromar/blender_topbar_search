@@ -1,2 +1,2 @@
-# blender_topbar_search
-topbar search button for blender 2.8
+this addon is no longer maintained, follow the link for a newer more flexible addon
+https://github.com/kromar/blender_Shelves
